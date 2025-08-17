@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
              <meta name="viewport" content="width=device-width, initial-scale=1">
-             <title>Pyinstaller_CH</title>
 </head>
 <body>
     <h1>欢迎使用pipch工具！</h1>
